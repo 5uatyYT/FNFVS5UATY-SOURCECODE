@@ -1,0 +1,10 @@
+{
+	"idle_anim": "5 5UATY idle",
+	"image": "Menu_5uatyred",
+	"position": [
+		0,
+		10
+	],
+	"scale": 1,
+	"confirm_anim": "M Dad Idle"
+}

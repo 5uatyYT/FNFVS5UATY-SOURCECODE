@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "5uaty LEFT"
+		},
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "5uaty DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-60
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "5uaty IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-60
+			],
+			"anim": "singUP",
+			"fps": 3,
+			"name": "5uaty UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "5uaty RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				239,
+				-60
+			],
+			"loop": false,
+			"fps": 34,
+			"anim": "SHOOT",
+			"indices": [],
+			"name": "5uaty SHOOT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/5uaty",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "5uaty",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

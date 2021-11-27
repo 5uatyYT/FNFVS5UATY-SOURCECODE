@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "5uatyred Idle"
+		},
+		{
+			"offsets": [
+				14,
+				111
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "5uatyred Up Pose"
+		},
+		{
+			"offsets": [
+				20,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "5uatyred DOWN POSE"
+		},
+		{
+			"offsets": [
+				70,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "5uatyred Pose Left"
+		},
+		{
+			"offsets": [
+				270,
+				97
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "5uatyred Left Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/5uatyred",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "5uatyred",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

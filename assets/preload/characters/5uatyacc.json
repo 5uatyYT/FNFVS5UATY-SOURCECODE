@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"indices": [],
+			"fps": 17,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "5uatyacc LEFT"
+		},
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "5uatyacc DOWN"
+		},
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "5uatyacc IDLE"
+		},
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"indices": [],
+			"fps": 3,
+			"anim": "singUP",
+			"loop": false,
+			"name": "5uatyacc UP"
+		},
+		{
+			"offsets": [
+				249,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "5uatyacc RIGHT"
+		},
+		{
+			"offsets": [
+				239,
+				-60
+			],
+			"indices": [],
+			"fps": 34,
+			"anim": "SHOOT",
+			"loop": false,
+			"name": "5uatyacc SHOOT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "5UATY/5uatyacc",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "5UATYacc",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

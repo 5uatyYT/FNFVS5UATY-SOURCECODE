@@ -1,0 +1,30 @@
+{
+	"storyName": "duel 5uatyacc vs 5uatyredt",
+	"hideFreeplay": false,
+	"weekBackground": "5uaty",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"5uaty",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"duel",
+			"5uatyredt",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

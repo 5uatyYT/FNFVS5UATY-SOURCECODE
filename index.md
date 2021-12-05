@@ -7,10 +7,15 @@ FNF VS 5UATY 18.69
 
 ## Updates
 
-##18.69
+## 18.69
 New icons
+
 added winning icons
+
 added a kade engine(wip)
+
 made unfair diffculty more unfair
+
 hard mode now works
+
 insane diffuclty is finished

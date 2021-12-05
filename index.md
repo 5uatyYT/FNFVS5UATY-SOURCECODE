@@ -2,9 +2,10 @@
 
 This Page Is Just For Updates For My Game
 
-##Friday Night Funkin VS 5uaty 
+## Friday Night Funkin VS 5uaty 
+FNF VS 5UATY 18.69
 
-##Updates
+## Updates
 
 ##18.69
 New icons
